@@ -21,9 +21,9 @@
     <!--<IsPackable>true</IsPackable>-->
     <PackageId>$(AssemblyName)</PackageId>
     <Authors>$(Company)</Authors>
-    <PackageProjectUrl>https://newlifex.com/core</PackageProjectUrl>
+    <PackageProjectUrl>https://www.haocoding.com/</PackageProjectUrl>
     <PackageIcon>DH.png</PackageIcon>
-    <RepositoryUrl>https://github.com/NewLifeX/NewLife.OPC</RepositoryUrl>
+    <RepositoryUrl>https://github.com/PeiKeSmart/DH.NOPC</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>物联网;IoT;边缘计算;Edge;湖北登灏科技有限公司;DH组件;DH;PLC;$(AssemblyName)</PackageTags>
     <PackageReleaseNotes></PackageReleaseNotes>
@@ -32,7 +32,7 @@
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <PackageReadmeFile>Readme.MD</PackageReadmeFile>
+    <PackageReadmeFile></PackageReadmeFile>
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
     <!--<GeneratePackageOnBuild>true</GeneratePackageOnBuild>-->
   </PropertyGroup>
