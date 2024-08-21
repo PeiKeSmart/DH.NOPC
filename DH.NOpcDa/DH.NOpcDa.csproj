@@ -38,7 +38,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DH.NIoT" Version="3.7.2024.819-beta06380001" />
+    <PackageReference Include="DH.NIoT" Version="3.7.2024.820-beta0922" />
     <PackageReference Include="H.Opc" Version="0.9.3" />
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0">
       <PrivateAssets>all</PrivateAssets>
